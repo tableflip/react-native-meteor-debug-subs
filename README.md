@@ -16,3 +16,7 @@ debugSubs(5000) // Every 5 seconds is default
 chat(["waFeDSBQNuXdsWKbb",0]) (ready: true, inactive: false)
 chat/messages(["waFeDSBQNuXdsWKbb",10]) (ready: true, inactive: false)
 ```
+
+----
+
+A [(╯°□°）╯︵TABLEFLIP](https://tableflip.io) side project.
