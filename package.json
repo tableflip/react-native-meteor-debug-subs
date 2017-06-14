@@ -1,6 +1,6 @@
 {
   "name": "react-native-meteor-debug-subs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Logs out details about what subscriptions `react-native-meteor` currently has open every 5 seconds.",
   "main": "index.js",
   "scripts": {
