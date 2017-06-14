@@ -1,0 +1,26 @@
+{
+  "name": "react-native-meteor-debug-subs",
+  "version": "0.0.0",
+  "description": "Logs out details about what subscriptions `react-native-meteor` currently has open every 5 seconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "dependencies": {
+    "ejson": "^2.1.2"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "react-native-meteor": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/react-native-meteor-debug-subs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/react-native-meteor-debug-subs/issues"
+  },
+  "homepage": "https://github.com/tableflip/react-native-meteor-debug-subs#readme"
+}
